@@ -13,3 +13,5 @@
 - PostgreSQL
 - Angular
 - Git
+
+Currently learning Flutter and Dart.
