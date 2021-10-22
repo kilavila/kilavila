@@ -1,4 +1,4 @@
-### Web developer
+### Developer
 
 - JavaScript
 - TypeScript
