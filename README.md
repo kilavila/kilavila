@@ -4,14 +4,18 @@
 - TypeScript
 - PowerShell scripting
 - Batch scripting
-- HTML / CSS
+- HTML
+- CSS
 - NodeJS
 - ExpressJS
+- NestJS
 - DiscordJS
 - MongoDB
+- SQLite
 - MySQL
 - PostgreSQL
 - Angular
-- Git
+- Git(Github, Gitlab & Google Cloud)
+- Flutter
 
-Currently learning Flutter and Dart.
+Currently learning more about Flutter, Flutter Web and NestJS.
