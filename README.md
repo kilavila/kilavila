@@ -16,6 +16,6 @@
 - PostgreSQL
 - Angular
 - Git(Github, Gitlab & Google Cloud)
-- Flutter
+- Flutter/Flutter Web
 
-Currently learning more about Flutter, Flutter Web and NestJS.
+Currently learning ReactJS.
