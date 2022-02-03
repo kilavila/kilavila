@@ -18,4 +18,4 @@
 - Git(Github, Gitlab & Google Cloud)
 - Flutter/Flutter Web
 
-Currently learning ReactJS.
+Currently learning React Native.
