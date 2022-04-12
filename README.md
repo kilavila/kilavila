@@ -17,5 +17,6 @@
 - Angular
 - Git(Github, Gitlab & Google Cloud)
 - Flutter/Flutter Web
+- React Native(Expo)
 
-Currently learning React Native.
+Currently learning Matterport SDK.
