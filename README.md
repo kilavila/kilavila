@@ -18,5 +18,8 @@
 - Git(Github, Gitlab & Google Cloud)
 - Flutter/Flutter Web
 - React Native(Expo)
+- Shell/Bash scripting
+- FTP
+- SSH
 
 Currently learning Matterport SDK.
