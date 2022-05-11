@@ -1,4 +1,4 @@
-### Developer
+### Skills
 
 - JavaScript
 - TypeScript
