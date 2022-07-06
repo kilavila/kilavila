@@ -22,4 +22,4 @@
 - FTP
 - SSH
 
-Currently learning Matterport SDK.
+Currently learning Matterport SDK and Tauri.
