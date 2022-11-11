@@ -10,16 +10,17 @@
 - NodeJS
 - ExpressJS
 - NestJS
+- Angular
 - DiscordJS
 - MongoDB
 - SQLite
 - MySQL
 - PostgreSQL
-- Angular
 - Git(Github, Gitlab & Google Cloud)
 - Flutter/Flutter Web
-- React Native(Expo)
+- React/React Native(Expo)
 - FTP
 - SSH
 - VS Code
 - Vim/Neovim
+- Linux(Currently on Fedora & Pop OS)
