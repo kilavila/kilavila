@@ -4,6 +4,7 @@
 - TypeScript
 - PowerShell scripting
 - Batch scripting
+- Shell/Bash scripting
 - HTML
 - CSS
 - NodeJS
@@ -18,8 +19,7 @@
 - Git(Github, Gitlab & Google Cloud)
 - Flutter/Flutter Web
 - React Native(Expo)
-- Shell/Bash scripting
 - FTP
 - SSH
-
-Currently learning Matterport SDK and Tauri.
+- VS Code
+- Vim/Neovim
