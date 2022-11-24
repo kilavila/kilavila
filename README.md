@@ -22,5 +22,5 @@
 - FTP
 - SSH
 - VS Code
-- Vim/Neovim
+- Vim/Neovim/Lunarvim
 - Linux(Currently on Fedora & Pop OS)
