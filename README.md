@@ -10,7 +10,9 @@ LunarVim > VS Code
 *   ✉️  You can contact me at [christer.kilavik@protonmail.com](mailto:christer.kilavik@protonmail.com)
 *   🚀  I'm currently working on [Regex builder/debugger](http://kilavik.com)
 *   🧠  I'm learning more advanced regex and bash scripting
-*   🤝  I'm open to collaborating on small but interesting projects(like the regex builder^)### Skills 
+*   🤝  I'm open to collaborating on small but interesting projects(like the regex builder^)
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
