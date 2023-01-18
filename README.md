@@ -8,8 +8,8 @@ LunarVim > VS Code
 
 *   🌍  I'm based in Bergen, Norway
 *   ✉️  You can contact me at [christer.kilavik@protonmail.com](mailto:christer.kilavik@protonmail.com)
-*   🚀  I'm currently working on [Regex builder/debugger](http://kilavik.com)
-*   🧠  I'm learning more advanced regex and bash scripting
+*   🚀  I'm currently working on a few bash scripts
+*   🧠  I'm learning more about bash scripting and how to be more productive in the terminal
 *   🤝  I'm open to collaborating on small but interesting projects(like the regex builder^)
 
 ### Skills 
