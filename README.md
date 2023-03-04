@@ -4,13 +4,13 @@ Hi 👋 My name is Christer Kilavik
 Fullstack Developer
 -------------------
 
-LunarVim > VS Code
+Neovim <3
 
 *   🌍  I'm based in Bergen, Norway
 *   ✉️  You can contact me at [christer.kilavik@protonmail.com](mailto:christer.kilavik@protonmail.com)
-*   🚀  I'm currently working on a few bash scripts
-*   🧠  I'm learning more about bash scripting and how to be more productive in the terminal
-*   🤝  I'm open to collaborating on small but interesting projects(like the regex builder^)
+*   🚀  I'm currently working on Vim and Neovim configuration
+*   🧠  I'm learning more about VimScript, Lua and terminal applications
+*   🤝  I'm open to collaborating on small but interesting projects
 
 ### Skills 
 <p align="left">
