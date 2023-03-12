@@ -4,8 +4,6 @@ Hi 👋 My name is Christer Kilavik
 Fullstack Developer
 -------------------
 
-Neovim <3
-
 *   🌍  I'm based in Bergen, Norway
 *   ✉️  You can contact me at [christer.kilavik@protonmail.com](mailto:christer.kilavik@protonmail.com)
 *   🚀  I'm currently working on Vim and Neovim configuration
