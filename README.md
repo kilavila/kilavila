@@ -10,8 +10,8 @@ Fullstack Developer
 *   🧠  I'm learning more about Bash and Lua
 *   🤝  I'm open to collaborating on small projects
 
-```
-      _____      OS: Fedora Linux 37 (Workstation Edition) x86_64
+```css
+      _____      OS: Fedora Linux 37
      /   __)\    Host: 82L7 IdeaPad 5 Pro 14ACN6
      |  /  \ \   Shell: bash 5.2.15
   ___|  |__/ /   DE: GNOME 43.3
