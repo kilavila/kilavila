@@ -6,9 +6,9 @@ Fullstack Developer
 
 *   🌍  I'm based in Bergen, Norway
 *   ✉️  You can contact me at [christer.kilavik@protonmail.com](mailto:christer.kilavik@protonmail.com)
-*   🚀  I'm currently working on Vim and Neovim configuration
-*   🧠  I'm learning more about VimScript, Lua and terminal applications
-*   🤝  I'm open to collaborating on small but interesting projects
+*   🚀  I'm currently working on Bash scripts for git, tmux, transfer.sh, cd and dnf
+*   🧠  I'm learning more about Bash and Lua
+*   🤝  I'm open to collaborating on small projects
 
 ### Skills 
 <p align="left">
