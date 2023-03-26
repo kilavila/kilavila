@@ -10,6 +10,17 @@ Fullstack Developer
 *   🧠  I'm learning more about Bash and Lua
 *   🤝  I'm open to collaborating on small projects
 
+```
+      _____      OS: Fedora Linux 37 (Workstation Edition) x86_64
+     /   __)\    Host: 82L7 IdeaPad 5 Pro 14ACN6
+     |  /  \ \   Shell: bash 5.2.15
+  ___|  |__/ /   DE: GNOME 43.3
+ / (_    _)_/    Terminal: termite
+/ /  |  |        CPU: AMD Ryzen 7 5800U with Radeon Graphics (16) @ 1.900GHz
+\ \__/  |        GPU: AMD ATI Radeon Vega Series / Radeon Vega Mobile Series
+ \(_____/        Disk: 512G
+```
+
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
