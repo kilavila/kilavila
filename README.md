@@ -14,8 +14,8 @@ Fullstack Developer
       _____      OS: Fedora Linux 37
      /   __)\    Host: 82L7 IdeaPad 5 Pro 14ACN6
      |  /  \ \   Shell: bash 5.2.15
-  ___|  |__/ /   DE: xmonad 0.17.0
- / (_    _)_/    Terminal: termite
+  ___|  |__/ /   WM: xmonad 0.17.0
+ / (_    _)_/    Terminal: Termite
 / /  |  |        CPU: AMD Ryzen 7 5800U with Radeon Graphics (16) @ 1.900GHz
 \ \__/  |        GPU: AMD ATI Radeon Vega Series / Radeon Vega Mobile Series
  \(_____/        Disk: 512G
