@@ -5,20 +5,19 @@ Fullstack Developer
 -------------------
 
 *   🌍  I'm based in Bergen, Norway
-*   ✉️  You can contact me at [christer.kilavik@protonmail.com](mailto:christer.kilavik@protonmail.com)
-*   🚀  I'm currently working on Bash scripts for git, tmux, transfer.sh, cd and dnf
-*   🧠  I'm learning more about Bash and Lua
-*   🤝  I'm open to collaborating on small projects
+*   ✉️  You can contact me on [Discord](https://discord.com/users/405171103044993035)
+*   🚀  I'm currently working on a SPA in Angular: [https://kilavila.github.io/](https://kilavila.github.io/)
 
-```css
-      _____      OS: Fedora Linux 37
-     /   __)\    Host: 82L7 IdeaPad 5 Pro 14ACN6
-     |  /  \ \   Shell: bash 5.2.15
-  ___|  |__/ /   WM: xmonad 0.17.0
- / (_    _)_/    Terminal: Termite
-/ /  |  |        CPU: AMD Ryzen 7 5800U with Radeon Graphics (16) @ 1.900GHz
-\ \__/  |        GPU: AMD ATI Radeon Vega Series / Radeon Vega Mobile Series
- \(_____/        Disk: 512G
+```
+OS:       Garuda Linux x86_64
+DE:       KDE Plasma 5.27.9
+Terminal: alacritty 0.12.3
+Shell:    fish 3.6.1
+Host:     82XW (LOQ 16IRH8)
+CPU:      13th Gen Intel(R) Core(TM) i5-13420H (12) @ 4.60 GHz
+GPU:      NVIDIA GeForce RTX 4050 Max-Q
+Memory:   16 GiB
+Disk:     512 GiB
 ```
 
 ### Skills 
@@ -47,5 +46,5 @@ Fullstack Developer
 ### Socials
 
 <p align="left">
-<a href="https://discord.com/users/Christer#2023" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://discord.com/users/405171103044993035" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 </p>
