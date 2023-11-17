@@ -4,8 +4,7 @@ Hi 👋 My name is Christer Kilavik
 Fullstack Developer
 -------------------
 
-*   🌍  I'm based in Bergen, Norway
-*   ✉️  You can contact me on [Discord](https://discord.com/users/405171103044993035)
+*   🌍  I'm based in Norway
 *   🚀  I'm currently working on a SPA in Angular: [https://kilavila.github.io/](https://kilavila.github.io/)
 
 ```
@@ -41,12 +40,6 @@ Disk:     512 GiB
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
-                    
-### Socials
-
-<p align="left">
-<a href="https://discord.com/users/405171103044993035" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 </p>
 
 <img src="https://codeium.com/profile/kilavila_/card.png" />
