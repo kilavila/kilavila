@@ -4,8 +4,15 @@ Hi 👋 I'm kilavila_
 Fullstack Developer
 -------------------
 
-*   🌍  I'm based in Norway
-*   🚀  I'm currently working on a SPA in Angular: [https://kilavila.github.io/](https://kilavila.github.io/)
+My main stack
+
+  - Angular/React/React-Native
+  - NestJS
+  - Prisma
+  - SQL/NoSQL
+
+My current setup
+-------------
 
 ```
 OS:       Garuda Linux x86_64
@@ -19,7 +26,9 @@ Memory:   16 GiB
 Disk:     512 GiB
 ```
 
-### Skills 
+My skills
+---------
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -41,5 +50,7 @@ Disk:     512 GiB
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
+
+____________________________________________________________
 
 <img src="https://codeium.com/profile/kilavila_/card.png" />
