@@ -1,17 +1,14 @@
-Hi 👋 I'm kilavila_
+Fullstack Developer
 =================================
 
-Fullstack Developer
+Main stack
 -------------------
+![Static Badge](https://img.shields.io/badge/Angular-0?style=for-the-badge&label=Front-end&labelColor=%23232136&color=%23b4637a)
+![Static Badge](https://img.shields.io/badge/Nest%20JS-0?style=for-the-badge&label=Back-end&labelColor=%23232136&color=%23e0def4)
+![Static Badge](https://img.shields.io/badge/Prisma-0?style=for-the-badge&label=ORM&labelColor=%23232136&color=%23286983)
+![Static Badge](https://img.shields.io/badge/MySQL-0?style=for-the-badge&label=Database&labelColor=%23232136&color=%23ea9d34)
 
-My main stack
-
-  - Angular
-  - NestJS
-  - Prisma
-  - MySQL/SQLite
-
-My current setup
+Current setup
 -------------
 
 ```
@@ -26,7 +23,7 @@ Memory:   16 GiB
 Disk:     512 GiB
 ```
 
-My skills
+Skills
 ---------
 
 <p align="left">
