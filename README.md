@@ -17,7 +17,7 @@ My current setup
 ```
 OS:       Garuda Linux x86_64
 DE:       KDE Plasma 5.27.9
-Terminal: alacritty 0.12.3
+Terminal: kitty 0.31.0
 Shell:    fish 3.6.1
 Host:     82XW (LOQ 16IRH8)
 CPU:      13th Gen Intel(R) Core(TM) i5-13420H (12) @ 4.60 GHz
@@ -54,3 +54,5 @@ My skills
 ____________________________________________________________
 
 <img src="https://codeium.com/profile/kilavila_/card.png" />
+
+[![autocomplete](https://codeium.com/badges/user/kilavila_/autocomplete)](https://codeium.com/profile/kilavila_)
