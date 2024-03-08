@@ -6,10 +6,10 @@ Fullstack Developer
 
 My main stack
 
-  - Angular/React/React-Native
+  - Angular
   - NestJS
   - Prisma
-  - SQL/NoSQL
+  - MySQL/SQLite
 
 My current setup
 -------------
