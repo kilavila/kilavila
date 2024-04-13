@@ -12,15 +12,11 @@ Current setup
 -------------
 
 ```
-OS:       Garuda Linux x86_64
-DE:       KDE Plasma 5.27.9
-Terminal: kitty 0.31.0
-Shell:    fish 3.6.1
-Host:     82XW (LOQ 16IRH8)
-CPU:      13th Gen Intel(R) Core(TM) i5-13420H (12) @ 4.60 GHz
-GPU:      NVIDIA GeForce RTX 4050 Max-Q
-Memory:   16 GiB
-Disk:     512 GiB
+OS:       Garuda Linux
+WM:       i3
+Terminal: kitty
+Shell:    fish
+Editor:   Neovim
 ```
 
 Skills
