@@ -46,6 +46,4 @@ Skills
 
 ____________________________________________________________
 
-<img src="https://codeium.com/profile/kilavila_/card.png" />
-
-[![autocomplete](https://codeium.com/badges/user/kilavila_/autocomplete)](https://codeium.com/profile/kilavila_)
+<img src="./img/wrapped2023.png" />
