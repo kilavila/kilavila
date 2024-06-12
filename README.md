@@ -12,4 +12,4 @@
 <br>
 
 ### Contact me
-<img src="./img/qr-telegram.jpg" width="100%" height="650" style="object-fit: cover" />
+<img src="./img/qr-telegram.jpg" width="400" />
