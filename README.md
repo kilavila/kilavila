@@ -128,7 +128,6 @@
 <img src="./img/svg-icons/sqlite.svg" title="Sqlite" width="32" />
 <img src="./img/svg-icons/stackblitz.svg" title="Stackblitz" width="32" />
 <img src="./img/svg-icons/stackoverflow.svg" title="Stackoverflow" width="32" />
-<img src="./img/svg-icons/steam.svg" title="Steam" width="32" />
 <img src="./img/svg-icons/svelte.svg" title="Svelte" width="32" />
 <img src="./img/svg-icons/tailwindcss.svg" title="Tailwindcss" width="32" />
 <img src="./img/svg-icons/teamviewer.svg" title="Teamviewer" width="32" />
