@@ -13,7 +13,7 @@
 <br>
 <img src="./img/wrapped2023.png" width="400" />
 <br>
-
+<p align="left">
 <img src="./img/svg-icons/alacritty.svg" title="Alacritty" width="32" />
 <img src="./img/svg-icons/android.svg" title="Android" width="32" />
 <img src="./img/svg-icons/androidstudio.svg" title="Androidstudio" width="32" />
@@ -153,3 +153,4 @@
 <img src="./img/svg-icons/zoom.svg" title="Zoom" width="32" />
 <img src="./img/svg-icons/zorin.svg" title="Zorin" width="32" />
 <img src="./img/svg-icons/zsh.svg" title="Zsh" width="32" />
+</p>
