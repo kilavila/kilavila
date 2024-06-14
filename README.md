@@ -1,4 +1,4 @@
-<img src="./img/gifs/rocket.gif" width="400" height="400" />
+<img src="./img/gifs/laptop.gif" width="200" height="200" style="float:right" />
 
 [![Title](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=A6E3A1&repeat=false&random=false&width=500&lines=Fullstack+developer+/+Mentor)](https://git.io/typing-svg)
 [![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=89B4FA&random=false&width=500&lines=Angular;Svelte;HTML;JavaScript;Bash;CSS;TypeScript;Lua;React;Flutter;Dart;React+Native;Expo;Git;NestJS;Prisma;ExpressJS;Redux;SSH;FTP;Linux;Terminal;Vim;Tmux;SCSS;TailwindCSS;Bootstrap)](https://git.io/typing-svg)
