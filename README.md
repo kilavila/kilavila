@@ -1,7 +1,7 @@
-<img src="./img/gifs/laptop.gif" width="200" height="200" style="float:right" />
-
-[![Title](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=A6E3A1&repeat=false&random=false&width=500&lines=Fullstack+developer+/+Mentor)](https://git.io/typing-svg)
+[![Title](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=A6E3A1&repeat=false&random=false&width=500&lines=Senior+developer+/+Mentor)](https://git.io/typing-svg)
 [![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=89B4FA&random=false&width=500&lines=Angular;Svelte;HTML;JavaScript;Bash;CSS;TypeScript;Lua;React;Flutter;Dart;React+Native;Expo;Git;NestJS;Prisma;ExpressJS;Redux;SSH;FTP;Linux;Terminal;Vim;Tmux;SCSS;TailwindCSS;Bootstrap)](https://git.io/typing-svg)
+
+<img src="./img/gifs/laptop.gif" width="350" height="350" />
 
 ### Neovim config
 [![Neovim config](https://github-readme-stats.vercel.app/api/pin/?username=kilavila&repo=nvim&show_owner=true&theme=dark)](https://github.com/kilavila/nvim)
