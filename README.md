@@ -1,19 +1,19 @@
 [![Title](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=A6E3A1&repeat=false&random=false&width=500&lines=Senior+developer+/+Mentor)](https://git.io/typing-svg)
-[![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=89B4FA&random=false&width=500&lines=Angular;Svelte;HTML;JavaScript;Bash;CSS;TypeScript;Lua;React;Flutter;Dart;React+Native;Expo;Git;NestJS;Prisma;ExpressJS;Redux;SSH;FTP;Linux;Terminal;Vim;Tmux;SCSS;TailwindCSS;Bootstrap)](https://git.io/typing-svg)
+[![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=89B4FA&random=false&width=500&lines=Angular+%2B+TypeScript+%2B+SCSS;NestJS+%2B+Prisma+%2B+Passport;Svelte+%2B+TailwindCSS;HTML+%2B+CSS+%2B+JavaScript;React+Native+%2B+Expo+%2B+Redux;Linux+%2B+Bash+%2B+SSH+%2B+SSHFS;Tmux+%2B+Neovim)](https://git.io/typing-svg)
 
-<img src="./img/gifs/laptop.gif" width="350" height="350" />
+<!-- <img src="./img/gifs/laptop.gif" width="350" height="350" /> -->
 
-### Neovim config
-[![Neovim config](https://github-readme-stats.vercel.app/api/pin/?username=kilavila&repo=nvim&show_owner=true&theme=dark)](https://github.com/kilavila/nvim)
+### Configurations
+[![Neovim config](https://github-readme-stats.vercel.app/api/pin/?username=kilavila&repo=nvim&show_owner=true&theme=dracula)](https://github.com/kilavila/nvim)
 <br>
 
-### Languages & Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilavila&hide_progress=true&card_width=400&theme=dark)
+### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilavila&hide_progress=true&card_width=400&theme=dracula)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=kilavila&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true)](https://git.io/streak-stats)
-<br>
-<img src="./img/wrapped2023.png" width="400" />
-<br>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=kilavila&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true)](https://git.io/streak-stats) -->
+<!-- <br> -->
+<!-- <img src="./img/wrapped2023.png" width="400" /> -->
+<!-- <br> -->
 
 #### Looking at recently
 <p align="left">
