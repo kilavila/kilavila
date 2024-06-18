@@ -7,6 +7,7 @@
 [![Neovim config](https://github-readme-stats.vercel.app/api/pin/?username=kilavila&repo=nvim&show_owner=true&theme=dracula)](https://github.com/kilavila/nvim)
 <br>
 
+---
 ### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilavila&hide_progress=true&card_width=400&theme=dracula)
 <br>
@@ -15,7 +16,7 @@
 <!-- <img src="./img/wrapped2023.png" width="400" /> -->
 <!-- <br> -->
 
-#### Looking at recently
+##### Looking at recently
 <p align="left">
 <img src="./img/svg-icons/githubpages.svg" title="Githubpages" width="32" />
 <img src="./img/svg-icons/netlify.svg" title="Netlify" width="32" />
@@ -23,7 +24,7 @@
 <img src="./img/svg-icons/vercel.svg" title="Vercel" width="32" />
 </p>
 
-#### Current setup
+##### Current setup
 <p align="left">
 <img src="./img/svg-icons/lenovo.svg" title="Lenovo" width="32" />
 <img src="./img/svg-icons/popos.svg" title="Popos" width="32" />
@@ -31,7 +32,7 @@
 <img src="./img/svg-icons/brave.svg" title="Brave" width="32" />
 </p>
 
-#### Main stack
+##### Main stack
 <p align="left">
 <img src="./img/svg-icons/angular.svg" title="Angular" width="32" />
 <img src="./img/svg-icons/html5.svg" title="Html5" width="32" />
@@ -41,8 +42,9 @@
 <img src="./img/svg-icons/sass.svg" title="Sass" width="32" />
 </p>
 
-#### Most used technologies
-<p align="left">
+##### Most used technologies
+<details>
+<summary>View / Hide</summary>
 <img src="./img/svg-icons/alacritty.svg" title="Alacritty" width="32" />
 <img src="./img/svg-icons/android.svg" title="Android" width="32" />
 <img src="./img/svg-icons/codeium.svg" title="Codeium" width="32" />
@@ -78,10 +80,11 @@
 <img src="./img/svg-icons/tmux.svg" title="Tmux" width="32" />
 <img src="./img/svg-icons/vim.svg" title="Vim" width="32" />
 <img src="./img/svg-icons/yarn.svg" title="Yarn" width="32" />
-</p>
+</details>
 
-#### Also familiar with
-<p align="left">
+##### Also familiar with
+<details>
+<summary>Show / Hide</summary>
 <img src="./img/svg-icons/androidstudio.svg" title="Androidstudio" width="32" />
 <img src="./img/svg-icons/apache.svg" title="Apache" width="32" />
 <img src="./img/svg-icons/archlinux.svg" title="Archlinux" width="32" />
@@ -171,4 +174,54 @@
 <img src="./img/svg-icons/zoom.svg" title="Zoom" width="32" />
 <img src="./img/svg-icons/zorin.svg" title="Zorin" width="32" />
 <img src="./img/svg-icons/zsh.svg" title="Zsh" width="32" />
-</p>
+</details>
+
+---
+### What I use and recommend
+<details>
+<summary>Software</summary>
+
+- <a href="https://sw.kovidgoyal.net/kitty/" target="_blank">Kitty</a> (Fast, feature-rich, GPU based terminal emulator)
+- <a href="https://alacritty.org/" target="_blank">Alacritty</a> (Modern terminal emulator with sensible defaults)
+- <a href="https://brave.com/" target="_blank">Brave</a> (Better privacy. Faster webpages. Easier navigation)
+- <a href="https://apps.kde.org/dolphin/" target="_blank">Dolphin</a> (KDE's file manager)
+- <a href="https://telegram.org/" target="_blank">Telegram</a> (Cloud-based mobile and desktop messaging app)
+</details>
+
+<details>
+<summary>CLI</summary>
+
+- <a href="https://gnupg.org/" target="_blank">GnuPG</a> (Free implementation of the OpenPGP standard)
+- <a href="https://passwordstore.org/" target="_blank">Pass</a> (Password management)
+- <a href="https://github.com/jesseduffield/lazygit" target="_blank">LazyGit</a> (Simple terminal UI for git commands)
+- <a href="https://neovim.io/" target="_blank">Neovim</a> (Hyperextensible Vim-based text editor)
+- <a href="https://gnu.org/software/stow/" target="_blank">Stow</a> (Symlink farm manager)
+- <a href="https://github.com/ajeetdsouza/zoxide" target="_blank">Zoxide</a> (A smarter cd command)
+- <a href="https://github.com/junegunn/fzf" target="_blank">FZF</a> (General-purpose command-line fuzzy finder)
+- <a href="https://the.exa.website/" target="_blank">Exa</a> (Modern replacement for ls)
+- <a href="https://ohmyposh.dev/" target="_blank">Oh My Posh</a> (Prompt theme engine)
+- <a href="https://github.com/libfuse/sshfs" target="_blank">SSHFS</a> (Mount a remote filesystem using SFTP)
+- <a href="https://imagemagick.org/index.php" target="_blank">ImageMagick</a> (Editing and manipulating digital images)
+- <a href="https://ffmpeg.org/" target="_blank">FFmpeg</a> (Record, convert and stream audio and video)
+- <a href="https://browsersync.io/" target="_blank">Browser-sync</a> (Synchronised browser testing)
+- <a href="https://feh.finalrewind.org/" target="_blank">Feh</a> (Light-weight, configurable and versatile image viewer)
+- <a href="https://vifm.info/" target="_blank">Vifm</a> (Vim-like environment for managing files)
+</details>
+
+<!-- <details> -->
+<!-- <summary>Websites</summary> -->
+<!---->
+<!-- - <a href="" target="_blank"></a> () -->
+<!-- </details> -->
+<!---->
+<!-- <details> -->
+<!-- <summary>Chrome extensions</summary> -->
+<!---->
+<!-- - <a href="" target="_blank"></a> () -->
+<!-- </details> -->
+<!---->
+<!-- <details> -->
+<!-- <summary>Neovim</summary> -->
+<!---->
+<!-- - <a href="" target="_blank"></a> () -->
+<!-- </details> -->
